@@ -94,7 +94,6 @@ RUN mkdir -p storage/app/public/video
 RUN chown -R www-data:www-data storage && chmod -R 755 storage
 RUN php artisan vendor:publish --tag="cors"
 RUN php artisan key:generate
-RUN php artisan migrate
 #RUN php artisan passport:install
 RUN php artisan storage:link
 RUN php artisan up
