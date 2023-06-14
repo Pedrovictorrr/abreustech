@@ -60,8 +60,8 @@ COPY .arq/storage/framework /app/storage/framework
 RUN chmod -R 775 /app/storage
 COPY .env.example .env
 RUN cd /app/storage/framework && ls
-COPY .arq/health.html /app/health.html
-COPY .arq/health.html /app/public/health.html
+# COPY .arq/health.html /app/health.html
+# COPY .arq/health.html /app/public/health.html
 COPY composer.json .
 
 RUN composer update
