@@ -76,11 +76,11 @@ COPY .arq/ports.conf /etc/apache2/ports.conf
 COPY .arq/local.ini /usr/local/etc/php/conf.d/local.ini
 RUN chown -R www-data:www-data /app && a2enmod rewrite
 
-COPY .arq/laravel-cron /etc/cron.d/laravel-cron
+# COPY .arq/laravel-cron /etc/cron.d/laravel-cron
 
-RUN chmod 0644 /etc/cron.d/laravel-cron
-RUN touch /var/log/cron.log
-RUN crontab /etc/cron.d/laravel-cron
+# RUN chmod 0644 /etc/cron.d/laravel-cron
+# RUN touch /var/log/cron.log
+# RUN crontab /etc/cron.d/laravel-cron
 
 # VALIDAR SE AS CRONS ESTAO RODANDO #
 
