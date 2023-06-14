@@ -232,7 +232,7 @@ if (window.localStorage.getItem('limitDate') && new Date() < new Date(window.loc
 								<div class="elementor-element elementor-element-c425add custom-button pulse-button elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="c425add" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://checkout.ticto.app/235AE0B5?code=235AE0B5" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://checkout.ticto.app/235AE0B5?pid=AFE4AE1DB1" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">eu quero Aprender a massagem tântrica</span>
 		</span>
@@ -827,7 +827,7 @@ if (window.localStorage.getItem('limitDate') && new Date() < new Date(window.loc
 				<div class="elementor-element elementor-element-6be6a0d9 custom-button pulse-button elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="6be6a0d9" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://checkout.ticto.app/235AE0B5?code=235AE0B5" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://checkout.ticto.app/235AE0B5?pid=AFE4AE1DB1" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">eu quero Aprender a massagem tântrica</span>
 		</span>
@@ -1202,7 +1202,7 @@ Aumente a libido feminina, acabe com a frigidez e a falta de desejo sexual e dê
 				<div class="elementor-element elementor-element-65c64b47 custom-button pulse-button elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="65c64b47" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://checkout.ticto.app/235AE0B5?code=235AE0B5" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://checkout.ticto.app/235AE0B5?pid=AFE4AE1DB1" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">eu quero Aprender a massagem tântrica</span>
 		</span>
@@ -1374,49 +1374,49 @@ seu dinheiro de volta!</h2>		</div>
 .elementor-accordion{text-align:left}.elementor-accordion .elementor-accordion-item{border:1px solid #d4d4d4}.elementor-accordion .elementor-accordion-item+.elementor-accordion-item{border-top:none}.elementor-accordion .elementor-tab-title{margin:0;padding:15px 20px;font-weight:700;line-height:1;cursor:pointer;outline:none}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{display:inline-block;width:1.5em}.elementor-accordion .elementor-tab-title .elementor-accordion-icon svg{width:1em;height:1em}.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-right{float:right;text-align:right}.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-left{float:left;text-align:left}.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-closed{display:block}.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-opened,.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-closed{display:none}.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{display:block}.elementor-accordion .elementor-tab-content{display:none;padding:15px 20px;border-top:1px solid #d4d4d4}@media (max-width:767px){.elementor-accordion .elementor-tab-title{padding:12px 15px}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{width:1.2em}.elementor-accordion .elementor-tab-content{padding:7px 15px}}</style>		<div class="elementor-accordion" role="tablist">
 							<div class="elementor-accordion-item">
 					<div id="elementor-tab-title-1181" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-1181" aria-expanded="false">
-												<a class="elementor-accordion-title" href="">A compra é segura?</a>
+												<a class="elementor-accordion-title" href="https://checkout.ticto.app/235AE0B5?pid=AFE4AE1DB1">A compra é segura?</a>
 					</div>
 					<div id="elementor-tab-content-1181" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1181"><p>Seus dados financeiros são secretos e protegidos por criptografia  </p><p>Envio garantido para seu e-mail assim que o pagamento for concluído</p><p>Site é 100% confiável e autenticado  por empresas de segurança</p><p>Seus dados pessoais são mantidos em sigilo e NUNCA compartilhados</p></div>
 				</div>
 							<div class="elementor-accordion-item">
 					<div id="elementor-tab-title-1182" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-1182" aria-expanded="false">
-												<a class="elementor-accordion-title" href="">Quanto tempo terei de acesso ao curso?</a>
+												<a class="elementor-accordion-title" href="https://checkout.ticto.app/235AE0B5?pid=AFE4AE1DB1">Quanto tempo terei de acesso ao curso?</a>
 					</div>
 					<div id="elementor-tab-content-1182" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1182"><p>Seu acesso ao curso será vitalício</p></div>
 				</div>
 							<div class="elementor-accordion-item">
 					<div id="elementor-tab-title-1183" class="elementor-tab-title" data-tab="3" role="tab" aria-controls="elementor-tab-content-1183" aria-expanded="false">
-												<a class="elementor-accordion-title" href="">Como é feita a demonstração da massagem?</a>
+												<a class="elementor-accordion-title" href="https://checkout.ticto.app/235AE0B5?pid=AFE4AE1DB1">Como é feita a demonstração da massagem?</a>
 					</div>
 					<div id="elementor-tab-content-1183" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1183"><p>Em modelos humanos com imagens em alto definição.</p></div>
 				</div>
 							<div class="elementor-accordion-item">
 					<div id="elementor-tab-title-1184" class="elementor-tab-title" data-tab="4" role="tab" aria-controls="elementor-tab-content-1184" aria-expanded="false">
-												<a class="elementor-accordion-title" href="">E se eu não gostar? Tenho alguma garantia?</a>
+												<a class="elementor-accordion-title" href="https://checkout.ticto.app/235AE0B5?pid=AFE4AE1DB1">E se eu não gostar? Tenho alguma garantia?</a>
 					</div>
 					<div id="elementor-tab-content-1184" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1184"><p>Tem 7 dias de garantia. Você pode pedir seu dinheiro de volta a qualquer momento dentro desse prazo e terá 100% seu dinheiro de volta.</p></div>
 				</div>
 							<div class="elementor-accordion-item">
 					<div id="elementor-tab-title-1185" class="elementor-tab-title" data-tab="5" role="tab" aria-controls="elementor-tab-content-1185" aria-expanded="false">
-												<a class="elementor-accordion-title" href="">Não tenho parceira, como faço?</a>
+												<a class="elementor-accordion-title" href="https://checkout.ticto.app/235AE0B5?pid=AFE4AE1DB1">Não tenho parceira, como faço?</a>
 					</div>
 					<div id="elementor-tab-content-1185" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-1185"><p>Não precisa ser comprometido para fazer o curso. Você pode aplicar as técnicas em você mesma ou usar em ficantes ou relações casuais.</p></div>
 				</div>
 							<div class="elementor-accordion-item">
 					<div id="elementor-tab-title-1186" class="elementor-tab-title" data-tab="6" role="tab" aria-controls="elementor-tab-content-1186" aria-expanded="false">
-												<a class="elementor-accordion-title" href="">Preciso estar online para assistir as aulas?</a>
+												<a class="elementor-accordion-title" href="https://checkout.ticto.app/235AE0B5?pid=AFE4AE1DB1">Preciso estar online para assistir as aulas?</a>
 					</div>
 					<div id="elementor-tab-content-1186" class="elementor-tab-content elementor-clearfix" data-tab="6" role="tabpanel" aria-labelledby="elementor-tab-title-1186"><p>Sim, as aulas são gravadas, assim você pode assistir quando quiser, quantas vezes quiser.</p></div>
 				</div>
 							<div class="elementor-accordion-item">
 					<div id="elementor-tab-title-1187" class="elementor-tab-title" data-tab="7" role="tab" aria-controls="elementor-tab-content-1187" aria-expanded="false">
-												<a class="elementor-accordion-title" href="">Como acesso o curso?</a>
+												<a class="elementor-accordion-title" href="https://checkout.ticto.app/235AE0B5?pid=AFE4AE1DB1">Como acesso o curso?</a>
 					</div>
 					<div id="elementor-tab-content-1187" class="elementor-tab-content elementor-clearfix" data-tab="7" role="tabpanel" aria-labelledby="elementor-tab-title-1187"><p>Pela plataforma Ticto para Brasileiros, Estrangeiros pela Hotmart. Assim que fizer a compra você irá receber um Login e Senha de acesso.</p></div>
 				</div>
 							<div class="elementor-accordion-item">
 					<div id="elementor-tab-title-1188" class="elementor-tab-title" data-tab="8" role="tab" aria-controls="elementor-tab-content-1188" aria-expanded="false">
-												<a class="elementor-accordion-title" href="">Quais são as formas de pagamentos?</a>
+												<a class="elementor-accordion-title" href="https://checkout.ticto.app/235AE0B5?pid=AFE4AE1DB1">Quais são as formas de pagamentos?</a>
 					</div>
 					<div id="elementor-tab-content-1188" class="elementor-tab-content elementor-clearfix" data-tab="8" role="tabpanel" aria-labelledby="elementor-tab-title-1188"><p>Aceitamos os cartões de crédito mais usados: visa, mastercard e outros dividimos em até 12 vezes. Você também pode optar pela opção de PIX ou boleto bancário.</p></div>
 				</div>
