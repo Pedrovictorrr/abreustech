@@ -1,0 +1,76 @@
+#arquivo CICD Rancher
+
+#arquivo utilizado em 15/02/2023, funciona perfeitamente o deploy com kubectl apply
+
+
+name: Deploy Dev K8S - v4
+
+on:
+  push:
+    branches: [ "beta-update" ]
+
+env:
+  KUBE_CONFIG: ${{ secrets.KUBE_CONFIG }}
+  KUBE_NAMESPACE: default
+  AWS_REGION: sa-east-1                   # set this to your preferred AWS region, e.g. us-west-1
+  ECR_REPOSITORY: 215209813421.dkr.ecr.sa-east-1.amazonaws.com/cdcdigital           # set this to your Amazon ECR repository name
+  ECR_TAG: prod1
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    name: Deploy with K8S
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        
+      - name: Faz login no cluster Rancher da Novakio via Kubeconfig
+        run: |
+          mkdir -p ~/.kube
+          sudo cp ./_rancher/config ~/.kube/config
+      - name: Login to DockerHub
+        uses: docker/login-action@v1
+        with:
+          username: ederpfonseca
+          password: dckr_pat_bf59vinDHoeAcelTCxff4Y7txYw
+
+      
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+      # So now you can use Actions' own caching!
+      - name: Cache Docker layers
+        uses: actions/cache@v3
+        with:
+          path: /tmp/.buildx-cache
+          key: ${{ runner.os }}-buildx-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-buildx-
+      # And make it available for builds
+      - name: Build and push
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          push: true
+          tags: ederpfonseca/cdcdigital:dev2
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+        # This ugly bit is necessary if you don't want your cache to grow forever
+        # until it hits GitHub's limit of 5GB.
+        # Temp fix
+        # https://github.com/docker/build-push-action/issues/252
+        # https://github.com/moby/buildkit/issues/1896
+      - name: Move cache
+        run: |
+          rm -rf /tmp/.buildx-cache
+          mv /tmp/.buildx-cache-new /tmp/.buildx-cache
+      - name: Executa Kubectl e confirma instalação
+
+        run: | 
+          kubectl version
+          kubectl get nodes
+          kubectl apply -f ./_rancher/cdc-deploy.yaml
+          kubectl rollout restart deploy cdcdigital-dev2
+        

@@ -1,0 +1,4 @@
+FROM nginx:1.23.3
+WORKDIR /app
+COPY _k8s/nginx.conf /etc/nginx/conf.d/default.conf
+EXPOSE 80

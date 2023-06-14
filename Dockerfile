@@ -55,13 +55,13 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 RUN docker-php-ext-install pdo_mysql mbstring
 WORKDIR /app
 COPY . /app
-# COPY .arq/storage/framework /app/storage/framework
+COPY .arq/storage/framework /app/storage/framework
 #RUN mkdir /app/storage/framework/views
 RUN chmod -R 775 /app/storage
 COPY .env.example .env
 RUN cd /app/storage/framework && ls
-# COPY .arq/health.html /app/health.html
-# COPY .arq/health.html /app/public/health.html
+COPY .arq/health.html /app/health.html
+COPY .arq/health.html /app/public/health.html
 COPY composer.json .
 
 RUN composer update
@@ -72,15 +72,15 @@ RUN php artisan config:cache
 RUN a2enmod headers
 RUN mkdir /var/www/app
 RUN mkdir /var/www/app/public
-# COPY .arq/ports.conf /etc/apache2/ports.conf
-# COPY .arq/local.ini /usr/local/etc/php/conf.d/local.ini
+COPY .arq/ports.conf /etc/apache2/ports.conf
+COPY .arq/local.ini /usr/local/etc/php/conf.d/local.ini
 RUN chown -R www-data:www-data /app && a2enmod rewrite
 
-# COPY .arq/laravel-cron /etc/cron.d/laravel-cron
+COPY .arq/laravel-cron /etc/cron.d/laravel-cron
 
-# RUN chmod 0644 /etc/cron.d/laravel-cron
-# RUN touch /var/log/cron.log
-# RUN crontab /etc/cron.d/laravel-cron
+RUN chmod 0644 /etc/cron.d/laravel-cron
+RUN touch /var/log/cron.log
+RUN crontab /etc/cron.d/laravel-cron
 
 # VALIDAR SE AS CRONS ESTAO RODANDO #
 
@@ -110,12 +110,12 @@ RUN php artisan schedule:run
 
 
 #ENTRYPOINT PARA RODAR AS CRONS
-# COPY entrypoint.sh /opt/bin/entrypoint.sh
-# COPY entrypoint-apache.sh /opt/bin/entrypoint-apache.sh
-# COPY entrypoint-cron.sh /opt/bin/entrypoint-cron.sh
-# RUN chmod +x /opt/bin/entrypoint.sh
-# RUN chmod +x /opt/bin/entrypoint-apache.sh
-# RUN chmod +x /opt/bin/entrypoint-cron.sh
+COPY entrypoint.sh /opt/bin/entrypoint.sh
+COPY entrypoint-apache.sh /opt/bin/entrypoint-apache.sh
+COPY entrypoint-cron.sh /opt/bin/entrypoint-cron.sh
+RUN chmod +x /opt/bin/entrypoint.sh
+RUN chmod +x /opt/bin/entrypoint-apache.sh
+RUN chmod +x /opt/bin/entrypoint-cron.sh
 #CMD php artisan serve --host=0.0.0.0 --port=80
 
 
