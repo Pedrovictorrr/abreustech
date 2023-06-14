@@ -110,12 +110,12 @@ RUN php artisan schedule:run
 
 
 #ENTRYPOINT PARA RODAR AS CRONS
-COPY entrypoint.sh /opt/bin/entrypoint.sh
-COPY entrypoint-apache.sh /opt/bin/entrypoint-apache.sh
-COPY entrypoint-cron.sh /opt/bin/entrypoint-cron.sh
-RUN chmod +x /opt/bin/entrypoint.sh
-RUN chmod +x /opt/bin/entrypoint-apache.sh
-RUN chmod +x /opt/bin/entrypoint-cron.sh
+# COPY entrypoint.sh /opt/bin/entrypoint.sh
+# COPY entrypoint-apache.sh /opt/bin/entrypoint-apache.sh
+# COPY entrypoint-cron.sh /opt/bin/entrypoint-cron.sh
+# RUN chmod +x /opt/bin/entrypoint.sh
+# RUN chmod +x /opt/bin/entrypoint-apache.sh
+# RUN chmod +x /opt/bin/entrypoint-cron.sh
 #CMD php artisan serve --host=0.0.0.0 --port=80
 
 
