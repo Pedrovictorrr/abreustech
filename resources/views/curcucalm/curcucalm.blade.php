@@ -93,7 +93,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="elementor-element elementor-element-52938b91 elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="52938b91" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#checkout" class="elementor-button-link elementor-button elementor-size-md" role="button" id="pulse">
+			<a href="https://go.perfectpay.com.br/PPU38CM8NAScheckout" class="elementor-button-link elementor-button elementor-size-md" role="button" id="pulse">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">COMPRAR AGORA</span>
 		</span>
@@ -210,7 +210,7 @@ livrar de dores intensas como:</strong>						</div>
 				<div class="elementor-element elementor-element-342edf0e elementor-align-center elementor-widget elementor-widget-button" data-id="342edf0e" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#checkout" class="elementor-button-link elementor-button elementor-size-md" role="button" id="pulse">
+			<a href="https://go.perfectpay.com.br/PPU38CM8NAScheckout" class="elementor-button-link elementor-button elementor-size-md" role="button" id="pulse">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">COMPRAR AGORA</span>
 		</span>
@@ -327,7 +327,7 @@ livrar de dores intensas como:</strong>						</div>
 				<div class="elementor-element elementor-element-6f5e7cda elementor-align-left elementor-widget elementor-widget-button" data-id="6f5e7cda" data-element_type="widget" id="pulse" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#checkout" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://go.perfectpay.com.br/PPU38CM8NAScheckout" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">QUERO ME LIVRAR DA DOR</span>
 		</span>
@@ -434,7 +434,7 @@ livrar de dores intensas como:</strong>						</div>
 				<div class="elementor-element elementor-element-58ac3af4 elementor-align-center elementor-widget elementor-widget-button" data-id="58ac3af4" data-element_type="widget" id="pulse" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#checkout" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://go.perfectpay.com.br/PPU38CM8NAScheckout" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">QUERO ME LIVRAR DA DOR</span>
 		</span>
@@ -463,7 +463,7 @@ livrar de dores intensas como:</strong>						</div>
 				<div class="elementor-element elementor-element-1d54e238 elementor-align-left elementor-widget elementor-widget-button" data-id="1d54e238" data-element_type="widget" id="pulse" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#checkout" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://go.perfectpay.com.br/PPU38CM8NAScheckout" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">QUERO ME LIVRAR DA DOR</span>
 		</span>
@@ -540,7 +540,7 @@ livrar de dores intensas como:</strong>						</div>
 				<div class="elementor-element elementor-element-4cbd372a elementor-align-center elementor-widget elementor-widget-button" data-id="4cbd372a" data-element_type="widget" id="pulse" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#checkout" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://go.perfectpay.com.br/PPU38CM8NAScheckout" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">QUERO ME LIVRAR DA DOR</span>
 		</span>
@@ -573,7 +573,7 @@ livrar de dores intensas como:</strong>						</div>
 				<div class="elementor-element elementor-element-23f35943 elementor-align-left elementor-widget elementor-widget-button" data-id="23f35943" data-element_type="widget" id="pulse" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#checkout" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://go.perfectpay.com.br/PPU38CM8NAScheckout" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">QUERO ME LIVRAR DA DOR</span>
 		</span>
@@ -658,7 +658,8 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-element elementor-element-5ae5de15 elementor-align-center elementor-widget elementor-widget-button" data-id="5ae5de15" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://go.perfectpay.com.br/PPU38CM7NF0" class="elementor-button-link elementor-button elementor-size-md" role="button">
+                        teste
+			<a href="https://go.perfectpay.com.br/PPU38CM8NAS" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">COMPRAR AGORA</span>
 		</span>
@@ -764,7 +765,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-element elementor-element-1644b664 elementor-align-center elementor-widget elementor-widget-button" data-id="1644b664" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://go.perfectpay.com.br/PPU38CM7NF6" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://go.perfectpay.com.br/PPU38CM8NB3" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">COMPRAR AGORA</span>
 		</span>
@@ -817,7 +818,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-element elementor-element-2d389fb4 elementor-align-center elementor-widget elementor-widget-button" data-id="2d389fb4" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://go.perfectpay.com.br/PPU38CM7NF9" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://go.perfectpay.com.br/PPU38CM8NB6" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">COMPRAR AGORA</span>
 		</span>
@@ -961,7 +962,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-element elementor-element-77c58a66 elementor-align-center elementor-widget elementor-widget-button" data-id="77c58a66" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://go.perfectpay.com.br/PPU38CM7NF0" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://go.perfectpay.com.br/PPU38CM8NAU" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">COMPRAR AGORA</span>
 		</span>
@@ -1291,7 +1292,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="https://inibdoroficial.com.br/">
+											<a href="https://go.perfectpay.com.br/PPU38CM8NAS">
 
 												<span class="elementor-icon-list-icon">
 																<i class="fa fa-check" aria-hidden="true"></i>
@@ -1300,7 +1301,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="#">
+											<a href="https://go.perfectpay.com.br/PPU38CM8NAS">
 
 												<span class="elementor-icon-list-icon">
 																<i class="fa fa-times" aria-hidden="true"></i>
