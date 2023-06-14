@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/adv_receitassecar', function () {
     return view('receitas_secar.index');
 });
+
+Route::get('/adv_massagem_tantrica', function () {
+    return view('massagem.massagem');
+});
