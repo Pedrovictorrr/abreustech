@@ -55,7 +55,7 @@ RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local
 RUN docker-php-ext-install pdo_mysql mbstring
 WORKDIR /app
 COPY . /app
-COPY .arq/storage/framework /app/storage/framework
+# COPY .arq/storage/framework /app/storage/framework
 #RUN mkdir /app/storage/framework/views
 RUN chmod -R 775 /app/storage
 COPY .env.example .env
