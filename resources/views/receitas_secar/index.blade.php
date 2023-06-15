@@ -21,6 +21,23 @@
     <link
         href="https://fonts.googleapis.com/css?family=Dosis:300,500,700|Just+Another+Hand|Lato:%27100italic%27,%27300italic%27,%27400italic%27,%27700italic%27,%27900italic%27,100,300,400,700,900|Lora:%27400italic%27,%27700italic%27,400,700|Montserrat:300,400,500,700|Oswald:300,400,700|Open+Sans:%27300italic%27,%27400italic%27,%27600italic%27,%27700italic%27,300,400,600,700|Open+Sans+Condensed:%27300italic%27,300,700|Roboto:%27100italic%27,%27300italic%27,%27400italic%27,%27500italic%27,%27700italic%27,%27900italic%27,100,300,400,500,700,900|Raleway:%27300italic%27,%27400italic%27,%27700italic%27,300,400,700|Nunito:%27wght@200%27,400,700,800|Vollkorn:%27ital,,400,500,600,700,800,900,wght@0,"
         rel="stylesheet">
+        <!-- Meta Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '2155046984699982');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=2155046984699982&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Meta Pixel Code -->
     <script type="text/javascript"
         src="//static-public.pages.hotmart.com/app/assets/javascripts/public/js/include.js?v=1633370698">
         //<![CDATA[

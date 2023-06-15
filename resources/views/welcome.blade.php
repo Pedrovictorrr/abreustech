@@ -43,13 +43,9 @@
             </a></li>
         </ul>
         <div class="offcanvas__logo">
-            <a href="{)}}"><img src="img/logo.png" alt=""></a>
+            <a href=""><img src="img/logo.png" alt=""></a>
         </div>
         <div id="mobile-menu-wrap"></div>
-        <div class="offcanvas__auth">
-            <a href="#">Login</a>
-            <a href="#">Register</a>
-        </div>
     </div>
     <!-- Offcanvas Menu End -->
 
