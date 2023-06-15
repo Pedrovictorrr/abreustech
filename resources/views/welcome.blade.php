@@ -15,14 +15,14 @@
     rel="stylesheet">
 
     <!-- Css Styles -->
-    <link rel="stylesheet" href="{{url("css/bootstrap.min.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{url("css/font-awesome.min.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{url("css/elegant-icons.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{url("css/jquery-ui.min.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{url("css/magnific-popup.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{url("css/owl.carousel.min.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{url("css/slicknav.min.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{url("css/style.css")}}" type="text/css">
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 </head>
@@ -37,15 +37,15 @@
         <div class="offcanvas__close">+</div>
         <ul class="offcanvas__widget">
             <li><span class="icon_search search-switch"></span></li>
-            <li><a href=""><span class="icon_heart_alt"></span>
+            <li><a href="><span class="icon_heart_alt"></span>
                 <div class="tip">2</div>
             </a></li>
-            <li><a href=""><span class="icon_bag_alt"></span>
+            <li><a href="><span class="icon_bag_alt"></span>
                 <div class="tip">2</div>
             </a></li>
         </ul>
         <div class="offcanvas__logo">
-            <a href=""><img src="img/logo.png" alt=""></a>
+            <a href="><img src="img/logo.png" alt="></a>
         </div>
         <div id="mobile-menu-wrap"></div>
     </div>
@@ -140,16 +140,16 @@
 <!-- Search End -->
 
 <!-- Js Plugins -->
-<script src="{{url("js/jquery-3.3.1.min.js")}}"></script>
-<script src="{{url("js/bootstrap.min.js")}}"></script>
-<script src="{{url("js/jquery.magnific-popup.min.js")}}"></script>
-<script src="{{url("js/jquery-ui.min.js")}}"></script>
-<script src="{{url("js/mixitup.min.js")}}"></script>
-<script src="{{url("js/jquery.countdown.min.js")}}"></script>
-<script src="{{url("js/jquery.slicknav.js")}}"></script>
-<script src="{{url("js/owl.carousel.min.js")}}"></script>
-<script src="{{url("js/jquery.nicescroll.min.js")}}"></script>
-<script src="{{url("js/main.js")}}"></script>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/mixitup.min.js"></script>
+<script src="js/jquery.countdown.min.js"></script>
+<script src="js/jquery.slicknav.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.nicescroll.min.js"></script>
+<script src="js/main.js"></script>
 </body>
 
 </html>
