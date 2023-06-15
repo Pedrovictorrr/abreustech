@@ -15,14 +15,16 @@
     rel="stylesheet">
 
     <!-- Css Styles -->
-    <link rel="stylesheet" href="{{asset("css/bootstrap.min.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{asset("css/font-awesome.min.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{asset("css/elegant-icons.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{asset("css/jquery-ui.min.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{asset("css/magnific-popup.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{asset("css/owl.carousel.min.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{asset("css/slicknav.min.css")}}" type="text/css">
-    <link rel="stylesheet" href="{{asset("css/style.css")}}" type="text/css">
+    <link rel="stylesheet" href="{{url("css/bootstrap.min.css")}}" type="text/css">
+    <link rel="stylesheet" href="{{url("css/font-awesome.min.css")}}" type="text/css">
+    <link rel="stylesheet" href="{{url("css/elegant-icons.css")}}" type="text/css">
+    <link rel="stylesheet" href="{{url("css/jquery-ui.min.css")}}" type="text/css">
+    <link rel="stylesheet" href="{{url("css/magnific-popup.css")}}" type="text/css">
+    <link rel="stylesheet" href="{{url("css/owl.carousel.min.css")}}" type="text/css">
+    <link rel="stylesheet" href="{{url("css/slicknav.min.css")}}" type="text/css">
+    <link rel="stylesheet" href="{{url("css/style.css")}}" type="text/css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -138,16 +140,16 @@
 <!-- Search End -->
 
 <!-- Js Plugins -->
-<script src="{{asset("js/jquery-3.3.1.min.js")}}"></script>
-<script src="{{asset("js/bootstrap.min.js")}}"></script>
-<script src="{{asset("js/jquery.magnific-popup.min.js")}}"></script>
-<script src="{{asset("js/jquery-ui.min.js")}}"></script>
-<script src="{{asset("js/mixitup.min.js")}}"></script>
-<script src="{{asset("js/jquery.countdown.min.js")}}"></script>
-<script src="{{asset("js/jquery.slicknav.js")}}"></script>
-<script src="{{asset("js/owl.carousel.min.js")}}"></script>
-<script src="{{asset("js/jquery.nicescroll.min.js")}}"></script>
-<script src="{{asset("js/main.js")}}"></script>
+<script src="{{url("js/jquery-3.3.1.min.js")}}"></script>
+<script src="{{url("js/bootstrap.min.js")}}"></script>
+<script src="{{url("js/jquery.magnific-popup.min.js")}}"></script>
+<script src="{{url("js/jquery-ui.min.js")}}"></script>
+<script src="{{url("js/mixitup.min.js")}}"></script>
+<script src="{{url("js/jquery.countdown.min.js")}}"></script>
+<script src="{{url("js/jquery.slicknav.js")}}"></script>
+<script src="{{url("js/owl.carousel.min.js")}}"></script>
+<script src="{{url("js/jquery.nicescroll.min.js")}}"></script>
+<script src="{{url("js/main.js")}}"></script>
 </body>
 
 </html>
