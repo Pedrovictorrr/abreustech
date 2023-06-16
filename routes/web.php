@@ -23,6 +23,6 @@ Route::get('/adv_massagem_tantrica', function () {
     return view('massagem.massagem');
 });
 
-Route::get('/adv_curcucalm', function () {
+Route::get('/adv_curcumy', function () {
     return view('curcucalm.curcucalm');
 });
